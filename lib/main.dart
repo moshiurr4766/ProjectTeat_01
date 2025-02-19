@@ -30,7 +30,7 @@ class _MyWidgetState extends State<MyWidget> {
     "Be the change that you wish to see in the world.",
     "In three words I can sum up everything I've learnedn.",
     "If you tell the truth, you don't have to hing.",
-    "A friend is someone who knows all about youloves you.",
+    "A friend is someone who knows all about youloves .",
   ];
 
   
